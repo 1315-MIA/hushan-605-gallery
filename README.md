@@ -1,2 +1,3 @@
-# hushan-605-gallery
-Hushan Primary School Class 605 Geometry Mind Map Gallery
+# Hushan 605 Gallery
+
+环山小学605班《图形与几何》数学思维导图优秀作品展。
